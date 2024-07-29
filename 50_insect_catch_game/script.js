@@ -69,9 +69,15 @@ function addInsects() {
     setTimeout(createInsect, 1500);
 }
 
+let vis = true;
+
 function increaseScore() {
+    if (score > 21) {
+        message.classList.remove('visible');
+        vis = false;
+    }
     score++;
-    if(score > 19) {
+    if(score > 19 && vis) {
         message.classList.add('visible');
     }
     scoreEl.innerHTML = `Score: ${score}`;
