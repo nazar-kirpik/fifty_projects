@@ -61,7 +61,8 @@ body {
 }
 
 .box {
-  background-image: url('https://www.bing.com/th/id/OGC.0cd782e41dc564a639acdb0c3beb5dcf?pid=1.7&rurl=https%3a%2f%2fc.tenor.com%2fAP0IpOuxmfUAAAAC%2fstu-macher-ghostface.gif&ehk=LEFeAUU4RSX9%2f0ZGpPpN5bKSl8NGYkxO7NSXhrdHgqI%3d');
+  /* background-image: url('https://www.bing.com/th/id/OGC.0cd782e41dc564a639acdb0c3beb5dcf?pid=1.7&rurl=https%3a%2f%2fc.tenor.com%2fAP0IpOuxmfUAAAAC%2fstu-macher-ghostface.gif&ehk=LEFeAUU4RSX9%2f0ZGpPpN5bKSl8NGYkxO7NSXhrdHgqI%3d'); */
+  background-image: url('https://www.bing.com/th/id/OGC.023dccb4fbeef5d2e697b776a48a5d56?pid=1.7&rurl=https%3a%2f%2fi.pinimg.com%2foriginals%2f5c%2f99%2f7d%2f5c997db7dc722661b1931957c2534cd1.gif&ehk=o5ixP4Qkh2E%2ffFd6GR05euWYnyiSb0ozPwtJl0hLack%3d');
   background-repeat: no-repeat;
   background-size: 500px 500px;
   position: relative;
